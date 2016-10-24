@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0800"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "75BA6E4D1DBD8EA3003FE7F7"
+               BuildableName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).app"
+               BlueprintName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;)"
+               ReferencedContainer = "container:JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "75BA6E661DBD8EA3003FE7F7"
+               BuildableName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;)Tests.xctest"
+               BlueprintName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;)Tests"
+               ReferencedContainer = "container:JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "75BA6E711DBD8EA3003FE7F7"
+               BuildableName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;)UITests.xctest"
+               BlueprintName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;)UITests"
+               ReferencedContainer = "container:JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "75BA6E4D1DBD8EA3003FE7F7"
+            BuildableName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).app"
+            BlueprintName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;)"
+            ReferencedContainer = "container:JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "75BA6E4D1DBD8EA3003FE7F7"
+            BuildableName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).app"
+            BlueprintName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;)"
+            ReferencedContainer = "container:JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "75BA6E4D1DBD8EA3003FE7F7"
+            BuildableName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).app"
+            BlueprintName = "JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;)"
+            ReferencedContainer = "container:JS&#x8c03;&#x7528;OCMethond(&#x76f8;&#x673a;&#x548c;&#x76f8;&#x518c;).xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

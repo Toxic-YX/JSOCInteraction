@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+      <title></title>
+      </head>
+  <body>
+    <div>
+      <h3>JS与iOS交互</h3>
+      <h4>JS页面获取iOS系统图片</h5>
+        </div>
+    <div>
+      <input type = "button" style="width: 50%;height: 5%;" id="Button" value="打开相机获取图片" onclick="getIOSImage()"></button>
+        </div><dir />
+    <div>
+      <img src="testImage.png" id="changeImage"style="width: 30%; height: 30%;" onclick="getIOSImage()"><!--src="图片的相对路径" 如果把html文件导入工程中，图片路径和OC一样只写图片名字和后缀就可以，（记得要先把图片添加到工程） 图片也可以实现按钮的方法getIOSImage -->
+        </div>
+    <span id="iosParame" style="width: 200px; height: 50%; color:orangered; font-size:15px" value="等待获取ios参数" >
+      </div>
+      <script>
+        var getIOSImage = function(){
+          var parameter = {'title':'JS调OC','describe':'这里就是JS传给OC的参数'};
+          // 在下面这里实现js 调用系统原生api
+          window.iosDelegate.getImage(JSON.stringify(parameter));// 实现数据的 json 格式字符串
+        }
+      // 这里是 iOS调用js的方法
+      function setImageWithPath(arguments){
+        document.getElementById('changeImage').src = arguments['imagePath'];
+        document.getElementById('iosParame').innerHTML = arguments['iosContent'];
+      }
+      </script>
+      </body>
+</html>
